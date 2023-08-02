@@ -1,1 +1,1 @@
-Display the contents list
+There is no place like home
