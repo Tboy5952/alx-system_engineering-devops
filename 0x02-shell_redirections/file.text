@@ -1,0 +1,36 @@
+total 140
+drwxr-xr-x 2 root root  4096 Aug  8 12:00 .
+drwxr-xr-x 7 root root   173 Aug  8 03:34 ..
+-rwxr--r-- 1 root root    32 Aug  7 03:30 0-hello_world
+-rwxr--r-- 1 root root    41 Aug  7 16:22 100-empty_casks
+-rwxr--r-- 1 root root   109 Aug  8 00:04 101-gifs
+-rwxr--r-- 1 root root    39 Aug  8 11:57 102-acrostic
+-rwxr--r-- 1 root root   115 Aug  8 00:28 103-the_biggest_fan
+-rwxr--r-- 1 root root    48 Aug  7 07:12 10-no_more_js
+-rwxr--r-- 1 root root    47 Aug  7 07:48 11-directories
+-rwxr--r-- 1 root root    25 Aug  7 08:16 12-newest_files
+-rwxr--r-- 1 root root    28 Aug  7 10:28 13-unique
+-rwxr--r-- 1 root root    36 Aug  7 10:42 14-findthatword
+-rwxr--r-- 1 root root    43 Aug  7 10:55 15-countthatword
+-rw------- 1 root root 12288 Aug  7 10:50 .15-countthatword.swp
+-rwxr--r-- 1 root root    39 Aug  7 13:38 16-whatsnext
+-rwxr--r-- 1 root root    36 Aug  7 13:45 17-hidethisword
+-rwxr--r-- 1 root root    51 Aug  7 15:49 18-letteronly
+-rwxr--r-- 1 root root    22 Aug  7 14:57 19-AZ
+-rw------- 1 root root 12288 Aug  7 14:42 .19-AZ.swp
+-rwxr--r-- 1 root root    28 Aug  7 03:36 1-confused_smiley
+-rwxr--r-- 1 root root    23 Aug  7 15:03 20-hiago
+-rwxr--r-- 1 root root    16 Aug  7 15:11 21-reverse
+-rwxr--r-- 1 root root    49 Aug  7 15:37 22-users_and_homes
+-rwxr--r-- 1 root root    28 Aug  7 03:56 2-hellofile
+-rwxr--r-- 1 root root    39 Aug  7 04:13 3-twofiles
+-rwxr--r-- 1 root root    35 Aug  7 04:22 4-lastlines
+-rwxr--r-- 1 root root    30 Aug  7 05:06 5-firstlines
+-rwxr--r-- 1 root root    46 Aug  7 13:54 6-third_line
+-rwxr--r-- 1 root root    99 Aug  7 14:04 7-file
+-rwxr--r-- 1 root root    36 Aug  7 06:35 8-cwd_state
+-rwxr--r-- 1 root root    35 Aug  7 06:48 9-duplicate_last_line
+-rw-r--r-- 1 root root     0 Aug  9 01:59 file.text
+-rw-r--r-- 1 root root    40 Aug  7 02:42 README.md
+{a..z}{Z..A}
+az ay ax aw av au at as ar aq ap ao an am al ak aj ai ah ag af ae ad ac ab aa bz by bx bw bv bu bt bs br bq bp bo bn bm bl bk bj bi bh bg bf be bd bc bb ba cz cy cx cw cv cu ct cs cr cq cp co cn cm cl ck cj ci ch cg cf ce cd cc cb ca dz dy dx dw dv du dt ds dr dq dp do dn dm dl dk dj di dh dg df de dd dc db da ez ey ex ew ev eu et es er eq ep eo en em el ek ej ei eh eg ef ee ed ec eb ea fz fy fx fw fv fu ft fs fr fq fp fo fn fm fl fk fj fi fh fg ff fe fd fc fb fa gz gy gx gw gv gu gt gs gr gq gp go gn gm gl gk gj gi gh gg gf ge gd gc gb ga hz hy hx hw hv hu ht hs hr hq hp ho hn hm hl hk hj hi hh hg hf he hd hc hb ha iz iy ix iw iv iu it is ir iq ip io in im il ik ij ii ih ig if ie id ic ib ia jz jy jx jw jv ju jt js jr jq jp jo jn jm jl jk jj ji jh jg jf je jd jc jb ja kz ky kx kw kv ku kt ks kr kq kp ko kn km kl kk kj ki kh kg kf ke kd kc kb ka lz ly lx lw lv lu lt ls lr lq lp lo ln lm ll lk lj li lh lg lf le ld lc lb la mz my mx mw mv mu mt ms mr mq mp mo mn mm ml mk mj mi mh mg mf me md mc mb ma nz ny nx nw nv nu nt ns nr nq np no nn nm nl nk nj ni nh ng nf ne nd nc nb na oz oy ox ow ov ou ot os or oq op oo on om ol ok oj oi oh og of oe od oc ob oa pz py px pw pv pu pt ps pr pq pp po pn pm pl pk pj pi ph pg pf pe pd pc pb pa qz qy qx qw qv qu qt qs qr qq qp qo qn qm ql qk qj qi qh qg qf qe qd qc qb qa rz ry rx rw rv ru rt rs rr rq rp ro rn rm rl rk rj ri rh rg rf re rd rc rb ra sz sy sx sw sv su st ss sr sq sp so sn sm sl sk sj si sh sg sf se sd sc sb sa tz ty tx tw tv tu tt ts tr tq tp to tn tm tl tk tj ti th tg tf te td tc tb ta uz uy ux uw uv uu ut us ur uq up uo un um ul uk uj ui uh ug uf ue ud uc ub ua vz vy vx vw vv vu vt vs vr vq vp vo vn vm vl vk vj vi vh vg vf ve vd vc vb va wz wy wx ww wv wu wt ws wr wq wp wo wn wm wl wk wj wi wh wg wf we wd wc wb wa xz xy xx xw xv xu xt xs xr xq xp xo xn xm xl xk xj xi xh xg xf xe xd xc xb xa yz yy yx yw yv yu yt ys yr yq yp yo yn ym yl yk yj yi yh yg yf ye yd yc yb ya zz zy zx zw zv zu zt zs zr zq zp zo zn zm zl zk zj zi zh zg zf ze zd zc zb za
